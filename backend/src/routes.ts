@@ -9,6 +9,8 @@ const itemControllerInstance = new ItemController();
 
 routes.get('/items', itemControllerInstance.index)
 
+
+routes.get('/points', pointControllerInstance.index);
 routes.post('/points', pointControllerInstance.create);
 routes.get('/points/:id', pointControllerInstance.show);
 
