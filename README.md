@@ -79,7 +79,7 @@ $ npm run dev
 $ git clone https://github.com/AlexandreAkao/NLW-1.0.git
 
 # Go into the repository
-$ cd NLW-1.0/frontend
+$ cd NLW-1.0/web
 
 # Install dependencies
 $ npm install
